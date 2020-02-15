@@ -2,6 +2,7 @@
 
 
 This code is for purpose to demonstate how to generate key pair dynamically FOR YOUR AWS EC2!
+This demo also let you to store keys(private/public) in your terraform output and in an external file to use them later.
 
 Code Structure: 
 ```
