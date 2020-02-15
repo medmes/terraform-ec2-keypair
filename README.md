@@ -11,7 +11,7 @@ Code Structure:
 └── variables.tf # terraform variables.
 ```
 
-After pulling code You can to launch the demo by:
+After pulling code You can launch the demo by:
 ```
 terraform init
 terraform plan
